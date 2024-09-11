@@ -102,7 +102,7 @@ Join the Ansible forum:
 * `News & Announcements <https://forum.ansible.com/c/news/5>`_: track project-wide announcements including social events and the `Bullhorn newsletter <https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn>`_.
 * `Social Spaces <https://forum.ansible.com/c/chat/4>`_: gather and interact with fellow enthusiasts.
 
-For more information about getting in touch with us, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
+For more information about getting in touch with us, see the `Ansible communication guide <https://docs.ansible.com/ansible/devel/community/communication.html>`_.
 
 License
 -------
