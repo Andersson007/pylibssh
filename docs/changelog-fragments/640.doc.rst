@@ -1,2 +1,2 @@
-Added a Communication section to the README.rst
+Added a Communication section to :file:`README.rst`
 -- by :user:`Andersson007`.
